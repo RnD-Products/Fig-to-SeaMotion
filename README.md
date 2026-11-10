@@ -1,4 +1,4 @@
-# seaMotion (Figma plugin)
+# Fig to SeaMotion (Figma plugin)
 
 Select layers in Figma, open the plugin, press **Copy**. The JSON holds, per layer: size and position, auto layout,
 fills (solid and gradient stops), strokes, corner radius, effects (drop shadow, inner shadow, layer blur, background blur and glass, with all their values), blend mode, opacity, text
